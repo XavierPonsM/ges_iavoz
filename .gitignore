@@ -1,6 +1,5 @@
-build
-.vscode
-.idea
-
+build/
 sdkconfig
 sdkconfig.old
+.DS_Store
+__pycache__/
